@@ -1,0 +1,7 @@
+The,3,It
+world,1,is
+needs,4,very
+more,1,nice
+skilled,5,to
+computer,9,meet
+programmers,2,you

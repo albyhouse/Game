@@ -1,0 +1,36 @@
+Computer program : A sequence of steps that when executed by a computer, perform a specific task.
+Software : machine readable instructions that tell a computer what to do.
+Software developer : A person who writes computer programs.
+Algorithm : a set of steps that are followed in order to solve a problem
+Four Step Problem-Solving Process : 1)Understand the problem 2)Identify a number of possible solutions 3)Choose the best solution and execute it 4)Look for errors and revise as needed
+Method : A small set of instructions that perform a task.  This group of instructions don’t make up the entire program, however, can be called at any time with the main program.
+Event : an action, such as a mouse click or key press, that is handled by the computer program
+Event-driven program : An interactive computer program that changes is behavior in response to events
+Parameter : a special kind of variable used in a method that provides some piece of data to the method.  Sometimes these variables are referred to as arguments.
+If-else statement : A feature of a programming language in which the program performs different actions depending on whether a Boolean condition is either true or false.
+Loop : A feature of a programming language that forces an instruction or set of instructions to be repeated a specific number of times.
+While : A feature of a programming language that forces an instruction or set of instructions to be repeated as long as some condition is met.
+Increment : the process of adding one to a number variable
+Decrement : the process of subtracting one from a number variable
+Accumulate : the process of repeatedly adding values to a variable.  It is often used when finding a total
+Variable : a storage structure that can store a value of some kind.  
+Number variable : a variable that can only store numerical values.
+Boolean variable : a variable that can only store values that are either true or false
+String variable : a variable that can store letters, numbers, or symbols. 
+Object variable : a variable that can store complex data structure.  For example, in Alice, this type of variable can hold an instance of a ‘Penguin’.
+List variable : a variable that can store a group of other variables
+Incremental development : the process of writing a computer program, in which the programming makes small changes to the program, then tests the program for accuracy.
+Object properties : the characteristics of an object that can be modified as to make the object appear different than other instances of the same object
+Comment : A statement within a computer program whose sole purpose is to make the code more understandable by the programmer.  This statement does not affect the running of the program.
+“Nested” statements : Programming instructions that are placed within other programming instructions.
+Debugging process : The process of removing errors from a computer program.
+Bug : An error in a computer program
+Main method : When a program is run, this is where the first instructions are executed.
+“State” of an object : The status of all of the properties of an object.
+Class : a blueprint for how to make a specific object
+Instance of a class : A realization of a class.  That is, an instance of a class is actual object that has been created from the blueprint.
+Executing a program : The process of initiating, or starting, a program
+Condition : An expression whose result is a Boolean value.
+Randomizer : A feature of a programming language that allows for unsystematic or unpredictable actions to occur.
+Block of code : A group of related instructions
+Mathematical Comparators : >, <, =, >=, <=, !=

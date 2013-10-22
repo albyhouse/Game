@@ -1,0 +1,37 @@
+766349998
+1. If-else statement 
+2. Block of code 
+3. Condition 
+4. Boolean variable 
+5. Software 
+6. Class 
+7. String variable 
+8. Randomizer 
+9. While 
+10. Main method 
+11. Debugging process 
+12. “Nested” statements 
+13. Incremental development 
+14. Number variable 
+15. Event-driven program 
+16. Algorithm 
+17. Software developer 
+18. Increment 
+19. Mathematical Comparators 
+20. Bug 
+21. Event 
+22. Object properties 
+23. Computer program 
+24. Comment 
+25. Loop 
+26. Method 
+27. Parameter 
+28. Instance of a class 
+29. Decrement 
+30. Accumulate 
+31. “State” of an object 
+32. Executing a program 
+33. List variable 
+34. Object variable 
+35. Variable 
+36. Four Step Problem-Solving Process 

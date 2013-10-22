@@ -1,0 +1,48 @@
+766349998
+Computer program     Software     Software developer     Algorithm     
+Four Step Problem-Solving Process     Method     Event     Event-driven program     
+Parameter     If-else statement     Loop     While     
+Increment     Decrement     Accumulate     Variable     
+Number variable     Boolean variable     String variable     Object variable     
+List variable     Incremental development     Object properties     Comment     
+“Nested” statements     Debugging process     Bug     Main method     
+“State” of an object     Class     Instance of a class     Executing a program     
+Condition     Randomizer     Block of code     Mathematical Comparators     
+
+
+1.____________________________________ A feature of a programming language in which the program performs different actions depending on whether a Boolean condition is either true or false.
+2.____________________________________ A group of related instructions
+3.____________________________________ An expression whose result is a Boolean value.
+4.____________________________________ a variable that can only store values that are either true or false
+5.____________________________________ machine readable instructions that tell a computer what to do.
+6.____________________________________ a blueprint for how to make a specific object
+7.____________________________________ a variable that can store letters, numbers, or symbols. 
+8.____________________________________ A feature of a programming language that allows for unsystematic or unpredictable actions to occur.
+9.____________________________________ A feature of a programming language that forces an instruction or set of instructions to be repeated as long as some condition is met.
+10.____________________________________ When a program is run, this is where the first instructions are executed.
+11.____________________________________ The process of removing errors from a computer program.
+12.____________________________________ Programming instructions that are placed within other programming instructions.
+13.____________________________________ the process of writing a computer program, in which the programming makes small changes to the program, then tests the program for accuracy.
+14.____________________________________ a variable that can only store numerical values.
+15.____________________________________ An interactive computer program that changes is behavior in response to events
+16.____________________________________ a set of steps that are followed in order to solve a problem
+17.____________________________________ A person who writes computer programs.
+18.____________________________________ the process of adding one to a number variable
+19.____________________________________ >, <, =, >=, <=, !=
+20.____________________________________ An error in a computer program
+21.____________________________________ an action, such as a mouse click or key press, that is handled by the computer program
+22.____________________________________ the characteristics of an object that can be modified as to make the object appear different than other instances of the same object
+23.____________________________________ A sequence of steps that when executed by a computer, perform a specific task.
+24.____________________________________ A statement within a computer program whose sole purpose is to make the code more understandable by the programmer.  This statement does not affect the running of the program.
+25.____________________________________ A feature of a programming language that forces an instruction or set of instructions to be repeated a specific number of times.
+26.____________________________________ A small set of instructions that perform a task.  This group of instructions don’t make up the entire program, however, can be called at any time with the main program.
+27.____________________________________ a special kind of variable used in a method that provides some piece of data to the method.  Sometimes these variables are referred to as arguments.
+28.____________________________________ A realization of a class.  That is, an instance of a class is actual object that has been created from the blueprint.
+29.____________________________________ the process of subtracting one from a number variable
+30.____________________________________ the process of repeatedly adding values to a variable.  It is often used when finding a total
+31.____________________________________ The status of all of the properties of an object.
+32.____________________________________ The process of initiating, or starting, a program
+33.____________________________________ a variable that can store a group of other variables
+34.____________________________________ a variable that can store complex data structure.  For example, in Alice, this type of variable can hold an instance of a ‘Penguin’.
+35.____________________________________ a storage structure that can store a value of some kind.  
+36.____________________________________ 1)Understand the problem 2)Identify a number of possible solutions 3)Choose the best solution and execute it 4)Look for errors and revise as needed
